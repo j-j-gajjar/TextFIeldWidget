@@ -11,7 +11,7 @@ To use this plugin, add `TextFieldWidget` as a [dependency in your pubspec.yaml 
   
 ```dart  
 import 'package:flutter/material.dart';
-import 'package:TextFieldWidget/TextFieldWidget.dart';
+import 'package:text_field_widget.dart/text_field_widget.dart.dart';
 
 void main() => runApp(MyApp());
 
