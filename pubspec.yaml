@@ -1,6 +1,8 @@
-name: TextFieldWidget
+name: text_field_widget
 description: Makes an interesting Text Field Widget
-version: 0.0.1
+version: 0.0.2
+homepage: https://github.com/j-j-gajjar
+repository: https://github.com/j-j-gajjar/TextFIeldWidget
 
 
 environment:
